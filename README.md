@@ -120,19 +120,19 @@ File:
 You can download and open it using Microsoft Power BI Desktop to explore the interactive dashboard.
 
 ## Dashboard Overview
-![Overview](overview_dashboard.png)
+![Overview](overview.png)
 
 ## Top & Bottom 5 Product Analysis
-![Top Bottom](top_bottom_analysis.png)
+![Top Bottom](Top_bottom_5_analysis.png)
 
 ## Sales / Profit / Quantity Comparison
-![Comparison](comparison_sales_profit_quantity.png)
+![Comparison](Comparison_Sales_Profit_Quantity.png)
 
 ## Visual Interaction
-![Edit Interaction](edit_interaction.png)
+![Edit Interaction](Edit_interaction.png)
 
 ## Order Details Table
-![Table Visual](table_visual.png)
+![Table Visual](Table_Visual.png)
 
 ## Insights
 
