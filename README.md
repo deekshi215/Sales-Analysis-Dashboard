@@ -120,7 +120,7 @@ File:
 You can download and open it using Microsoft Power BI Desktop to explore the interactive dashboard.
 
 ## Dashboard Overview
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ## Top & Bottom 5 Product Analysis
 ![Top Bottom](Top_bottom_5_analysis.png)
