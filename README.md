@@ -95,7 +95,7 @@ Sales, Profit, Quantity Sold, between two user-selected time periods.
 
 **Step 18 : Publish the report to Power BI Service.
 
-### Dataset
+## Dataset
 
 The dataset used for this project is available in this repository.
 
@@ -110,7 +110,7 @@ It contains information about:
 - Discounts
 - Cities
 
-### Power BI Project File
+## Power BI Project File
 
 The complete Power BI dashboard file is available in this repository.
 
@@ -119,20 +119,20 @@ File:
 
 You can download and open it using Microsoft Power BI Desktop to explore the interactive dashboard.
 
-### Dashboard Overview
-<img width="1301" height="712" alt="Overview" src="IMAGE_LINK" />
+## Dashboard Overview
+![Overview](overview_dashboard.png)
 
-### Top & Bottom 5 Product Analysis
-<img width="1278" height="713" alt="Top_bottom_5_analysis" src="IMAGE_LINK" />
+## Top & Bottom 5 Product Analysis
+![Top Bottom](top_bottom_analysis.png)
 
-### Sales / Profit / Quantity Comparison
-<img width="1289" height="711" alt="Comparison_Sales_Profit_Quantity" src="IMAGE_LINK" />
+## Sales / Profit / Quantity Comparison
+![Comparison](comparison_sales_profit_quantity.png)
 
-### Visual Interaction
-<img width="1289" height="698" alt="Edit_interaction" src="IMAGE_LINK" />
+## Visual Interaction
+![Edit Interaction](edit_interaction.png)
 
-### Order Details Table
-<img width="1153" height="641" alt="Table_Visual" src="IMAGE_LINK" />
+## Order Details Table
+![Table Visual](table_visual.png)
 
 ## Insights
 
